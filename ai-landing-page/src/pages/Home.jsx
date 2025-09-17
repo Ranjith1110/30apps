@@ -32,7 +32,7 @@ const Home = () => {
             },
             {
                 headers: {
-                    Authorization: `Bearer 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`,
+                    Authorization: `Bearer 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`,
                     "Content-Type": "application/json",
                     "HTTP-Referer": "http://localhost:5173"
                 }
